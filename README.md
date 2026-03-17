@@ -2,23 +2,25 @@
 
 **Startup People Operations & Experience Leader**
 
-I genuinely enjoy being of service, and I try to bring that practice into my work wherever I can. I want my work to create a positive ripple effect in my community, and I believe that starts with building workplaces where people can do their best work and still have energy left to give back.
+Thanks for stopping by!
 
-I love designing the structures, cultures, and experiences that allow both organizations and the people within them to grow. I feel lucky to have built a career in people operations and workplace experience, where aligning people and the business in sustainable ways can create impact that lasts for generations.
+I love to be of service, and I try to bring that practice into my work wherever I can. I want my work to create a positive ripple effect in my community, and I believe that starts with building workplaces where people can do their best work and still have energy left to give back.
 
-Now I'm adding a new skill to the toolkit: **building with AI.**  Consider this my experiment in learning to build the tools I’ve always wanted.
+I love designing the structures, cultures, and experiences that allow both organizations and the people within them to grow. I feel lucky to have built a career in people operations and workplace experience, where aligning people and the business in sustainable ways has the opportunity to create impact that lasts for generations.
+
+And now I'm adding a new skill to the toolkit: **building with AI.**  Consider this my experiment in learning to build the tools I’ve always wanted.
 
 ---
 
 ## What I'm Building 🪩
 
-I'm starting with projects that simplify the day-to-day logistics of job searching while I build my problem-solving skills and learn about AI tools.
+I'm starting with projects that simplify the day-to-day logistics of job searching while I sharpen my problem-solving skills and play with new AI tools.
 
 In my next role, I'm excited to automate the work that distracts from partnering with leaders, so I can spend more time listening, spotting patterns, and translating those insights into people programs that lift employees and move the business forward.
 
 **Current projects:**
 
-🤖 **[Interview Coach](https://therealshizron.github.io/interview-coach/)** — An AI-powered interview prep tool built for People & HR leaders. Practice behavioral, situational, and leadership questions. Get custom feedback, not generic advice. Free to use, with your own API Key.
+🤖 **[Interview Coach](https://therealshizron.github.io/interview-coach/)** — An AI-powered interview prep tool built for People & HR leaders. Practice behavioral, situational, and leadership questions. Get custom feedback and practice telling your story with confidence. BYOA, Bring your own API Key - I used Claude Console and $5 in credits.
 
 🧠 **Meeting Intelligence** — A private tool that reads Granola meeting notes and transcripts from Google Drive and returns action items + communication coaching. Built to support my own workflow.
 
