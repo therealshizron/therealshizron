@@ -46,7 +46,7 @@ If you're a People leader, HR practitioner, or career professional curious about
 
 ## Say Hello!
 
-💼 [LinkedIn](https://www.linkedin.com/in/sharonschmidt)
+💼 [LinkedIn](https://www.linkedin.com/in/shizzle)
 🌐 therealshizron.github.io/interview-coach
 
 ---
