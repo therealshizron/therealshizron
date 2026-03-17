@@ -40,7 +40,7 @@ I was inspired by some of my early teammates to experiment, find joy in solving 
 
 I believe the next generation of People leaders will have a greater opportunity to shape healthier workplaces by learning how to build and work with AI. So I'm learning in public, sharing what I make, and inviting my community to do the same.
 
-If you're a People leader, HR practitioner, or career professional curious about building your own tools—feel free to fork anything here, reach out, or just follow along.
+If you're a People leader, HR practitioner, or career professional curious about building your own tools - feel free to fork anything here, reach out, or just follow along.
 
 ---
 
