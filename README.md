@@ -6,7 +6,7 @@ Thanks for stopping by!
 
 I love to be of service, and I try to bring that practice into my work wherever I can. I want my work to create a positive ripple effect in my community, and I believe that starts with building workplaces where people can do their best work and still have energy left to give back.
 
-I love designing the structures, cultures, and experiences that allow both organizations and the people within them to grow. I feel lucky to have built a career in people operations and workplace experience, where aligning people and the business in sustainable ways has the opportunity to create impact that lasts for generations.
+I love designing the structures, cultures, and experiences that allow both organizations and the people within them to grow. I feel lucky to have built a career in people operations and workplace experience, where aligning people and the business in sustainable ways can have a meaningful impact for future genertaions.  
 
 And now I'm adding a new skill to the toolkit: **building with AI.**  Consider this my experiment in learning to build the tools I’ve always wanted.
 
