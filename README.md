@@ -1,42 +1,38 @@
 # Hi, I'm Sharon. 👋
 
-**Startup People Operations & Experience Leader**
+Thanks for stopping by! I'm a startup People Operations and Experience leader who loves designing the interactions, workflows, and programs that allow both organizations and the people within them to grow. I feel lucky to have built a career around optimizing workplace environments, where aligning people and business goals in thoughtful ways can create meaningful impact for future generations of workers and their families.
 
-Thanks for stopping by!
+Over the years, I’ve noticed a persistent thread running through my career: I feel most fulfilled when I'm in a role that allows me to be of service to something larger than myself. I try to bring that mindset into my work wherever I can because I believe many employees feel the same way and want their work to have a positive impact as well.
 
-I love to be of service, and I try to bring that practice into my work wherever I can. I want my work to create a positive ripple effect in my community, and I believe that starts with building workplaces where people can do their best work and still have energy left to give back.
-
-I love designing the structures, cultures, and experiences that allow both organizations and the people within them to grow. I feel lucky to have built a career in people operations and workplace experience, where aligning people and the business in sustainable ways can have a meaningful impact for future genertaions.  
-
-And now I'm adding a new skill to the toolkit: **building with AI.**  Consider this my experiment in learning to build the tools I’ve always wanted.
+Now I'm adding a new skill to my toolkit: building with AI. I'm curious about how this technology can be used to support healthier workplaces and bring people closer together. 
 
 ---
 
 ## What I'm Building 🪩
 
-I'm starting with projects that simplify the day-to-day logistics of job searching while I sharpen my problem-solving skills and play with new AI tools.
+For now, I'm mostly experimenting and learning in public, but I'm excited to explore how building tools for myself can expand my ability to support others.  I'm starting with projects that simplify the day-to-day logistics of job searching while I sharpen my problem-solving skills and learn new AI tools.
 
-In my next role, I'm excited to automate the work that distracts from partnering with leaders, so I can spend more time listening, spotting patterns, and translating those insights into people programs that lift employees and move the business forward.
+In my next role, I'm excited to automate work that frees me up to build stronger partnerships with others. I envision myself spending more time listening, spotting patterns, and translating insights into people programs that lift employees and move the business forward.
 
 **Current projects:**
 
-🤖 **[Interview Coach](https://therealshizron.github.io/interview-coach/)** — An AI-powered interview prep tool built for People & HR leaders. Practice behavioral, situational, and leadership questions. Get custom feedback and practice telling your story with confidence. BYOA, Bring your own API Key - I used Claude Console and $5 in credits.
+🤖 **[Interview Coach](https://therealshizron.github.io/interview-coach/)** - An AI-powered interview prep tool built for People & HR leaders. Practice behavioral, situational, and leadership questions. Get custom feedback and practice telling your story with confidence. BYOA, Bring your own API Key - I used Claude Console and about $5 in credits.
 
-🧠 **Meeting Intelligence** — A private tool that reads Granola meeting notes and transcripts from Google Drive and returns action items + communication coaching. Built to support my own workflow.
+🧠 **Meeting Intelligence** - A private tool that reads Granola meeting notes and transcripts from Google Drive and returns action items + communication coaching. Built to support my own workflow.
 
 ---
 
 ## My Background ✨
 
-- **People Partner** — strategic HR partner to leaders and teams, connecting people strategy to business outcomes
-- **People Operations & Experience** — built and scaled people functions, onboarding, culture, and the systems that help teams do their best work
-- **AI & Automation** — currently learning to build with Claude, Zapier, GitHub Pages, and whatever comes next
+- **People Partner** - strategic HR partner to leaders and teams, connecting people strategy to business outcomes
+- **People Operations & Experience** - built and scaled people functions, workplace teams, and hr programs that help bring out the best in everyone
+- **AI & Automation** - currently learning to build with Claude, Zapier, GitHub Pages, and whatever comes next
 
 ---
 
 ## How did I end up here? 
 
-I was inspired by some of my early teammates to experiment, find joy in solving problems, and make things. AI has opened the door for me to express that creativity in new ways.
+I was inspired by some of my early teammates to experiment, find joy in solving problems, and make things. I'm happy to say that AI has opened the door for me to express my creativity in new ways.
 
 I believe the next generation of People leaders will have a greater opportunity to shape healthier workplaces by learning how to build and work with AI. So I'm learning in public, sharing what I make, and inviting my community to do the same.
 
